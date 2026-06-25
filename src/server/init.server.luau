@@ -5,4 +5,6 @@ print("Hello world, from server!")
 
 Car:start()
 
+print('yuhh')
+
 type net = Networker.Server
